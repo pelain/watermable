@@ -1,7 +1,0 @@
-ComfyUI/
-.venv-*/
-downloads/
-outputs/*
-!outputs/.gitkeep
-*.safetensors
-*.ckpt
